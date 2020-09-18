@@ -1,0 +1,3 @@
+rootProject.name='ChatSignalR-FrameWork'
+include ':app'
+include ':signalr-client-sdk'
